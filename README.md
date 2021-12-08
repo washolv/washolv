@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou atualmente trabalhando com Angular
-- 🌱 Atualmente estudando TypeScript
+- 🌱 Atualmente estudando Swift (Desenvolvimento iOS)
 - 😄 Pronomes: Ele/Dele
 <div align="center">
   <a href="https://github.com/washolv">
