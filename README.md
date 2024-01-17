@@ -1,8 +1,8 @@
 ### Olá, eu sou o Francisco Washington, programador Front-end! 👋
 
 
-- 🔭 Estou atualmente trabalhando com Angular
-- 🌱 Atualmente estudando Swift (Desenvolvimento iOS)
+- 🔭 Estou atualmente trabalhando com Angular / Java / Cloud
+- 🌱 Atualmente estudando Java & Angular, além de nuvem AWS.
 - 😄 Pronomes: Ele/Dele
 <div align="center">
   <a href="https://github.com/washolv">
